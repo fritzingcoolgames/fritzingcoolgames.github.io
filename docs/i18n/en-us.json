@@ -1,0 +1,65 @@
+{
+  "app": {
+    "pages": {
+      "landing": {
+        "nav": {
+          "games": "Games",
+          "studio": "Studio",
+          "follow": "Follow",
+          "home": "fritzingcoolgames home"
+        },
+        "hero": {
+          "kicker": "Independent game studio · Est. 2025",
+          "tagline": "A small team of industry veterans, making cool games for players.",
+          "gamesCta": "See our game",
+          "studioCta": "Meet the studio"
+        },
+        "labels": {
+          "wishlistOn": "Wishlist on"
+        },
+        "games": {
+          "items": {
+            "goInsane": {
+              "eyebrow": "Our first game",
+              "status": "In development",
+              "title": "Go Insane TM",
+              "artAlt": "Go Insane TM key art: two armored survivors on a cliff, facing a horde of giant insects under a burning sky.",
+              "pitch": "Fight escalating hordes in first person, then bet your run on the route.",
+              "description": "Between fights you pick your next stop on a branching map, and every step raises Threat, the one number that makes enemies tougher, spawns faster and prices higher. Greed against the clock.",
+              "facts": {
+                "survivors": "Five survivors with unique kits",
+                "items": "Items that stack",
+                "coop": "Online co-op for 2–4 players in development"
+              }
+            }
+          }
+        },
+        "practices": {
+          "title": "How we work",
+          "forPlayers": {
+            "title": "Made for players",
+            "description": "We build the games we want to play, and we judge every decision by whether it's more fun to play."
+          },
+          "smallOnPurpose": {
+            "title": "Small on purpose",
+            "description": "A small team means short paths. The people with the idea are the people building it."
+          },
+          "veteranKnowHow": {
+            "title": "Veteran know-how, indie freedom",
+            "description": "Years in the industry taught us how games get made. Now we decide which ones."
+          }
+        },
+        "studio": {
+          "eyebrow": "The Studio",
+          "title": "Small team. Cool games.",
+          "description": "fritzingcoolgames is a small indie studio of industry veterans. We started in 2025 with one goal: make cool games for players. Go Insane TM is the first, and there are more to come.",
+          "artAlt": "The fritzingcoolgames mascot: a cracked, glowing rock planet with two orange eyes, ringed by cyan and orange energy."
+        },
+        "follow": {
+          "title": "Follow what we're making",
+          "description": "Wishlist our games and follow along as they come together."
+        }
+      }
+    }
+  }
+}
